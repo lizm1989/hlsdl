@@ -42,7 +42,7 @@ Todo
 - Remuxing to other formats
 - Local .m3u8 files
 
-#使用需要安装ffmpeg
+使用需要安装ffmpeg
 <pre>
 1、brew install ffmpeg
 2、git clone https://github.com/selsta/hlsdl
