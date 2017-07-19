@@ -52,6 +52,6 @@ Todo
 
 ffmpeg直接转
 <pre>
-ffmpeg -i https://video2.taptapdada.com/t/20170124/1080p_m3u8/aca2eb3e61fb3148be04207d377a1929.mp4/v.m3u8 -acodec copy -vcodec copy out.mp4
+ffmpeg -i http://xxx.m3u8 -acodec copy -vcodec copy out.mp4
 </pre>
 
